@@ -1,0 +1,6 @@
+{
+  "name": "MAVLA AI",
+  "description": "MAVLA AI (Ro) — Ultimate Personal AI Assistant & Trading Intelligence for Samarth Bhor. Voice automation, phone controls, incoming call assistant, and multi-timeframe SMC/ICT chart analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
